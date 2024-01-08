@@ -31,9 +31,9 @@ Antes de seguir esta guía, asegúrate de tener una comprensión básica de Node
 Descubre las mejores prácticas en la documentación de software, desde mantener la coherencia hasta asegurar que la documentación sea accesible y esté actualizada.
 
 ## Herramientas Recomendadas
-JSDoc: Herramienta para generar documentación de JavaScript.
-Compodoc: Herramienta de documentación para aplicaciones Angular.
-Markdown: Aprende a usar Markdown para escribir documentación legible y fácil de mantener.
+* JSDoc: Herramienta para generar documentación de JavaScript.
+* Compodoc: Herramienta de documentación para aplicaciones Angular.
+* Markdown: Aprende a usar Markdown para escribir documentación legible y fácil de mantener.
 
 ## Contribuir
 Las contribuciones a esta guía son bienvenidas. Por favor, lee el archivo CONTRIBUTING.md para más información sobre cómo puedes participar en el desarrollo de esta guía.
